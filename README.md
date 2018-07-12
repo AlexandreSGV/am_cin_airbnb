@@ -54,7 +54,7 @@ Geramos dois arquivos de submissão, um utilizando apenas dados de usuários e o
 - Users Only: [submission_users.csv](https://drive.google.com/open?id=1XQbRJOXZklfIyD6e9h4bswNno54BQCSg);
 - Users + Sessions: [submission_users_sessions.csv](https://drive.google.com/open?id=1jcdwRISnIFrcbyQeQmPZdsLn4yyqpocJ);
 
-![resultados](https://github.com/AlexandreSGV/cin_am_airbnb/blob/master/docs/resultado_kaggle.png?raw=true)
+![resultados](https://github.com/AlexandreSGV/am_cin_airbnb/blob/master/docs/resultado_kaggle.png?raw=true)
 
 
 ## Dependências
